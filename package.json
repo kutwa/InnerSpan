@@ -1,0 +1,27 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.58.5",
+    "eslint": "8.36.0",
+    "eslint-config-next": "13.2.4",
+    "framer": "^2.3.0",
+    "gsap": "^3.11.5",
+    "next": "13.2.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-router-dom": "^6.9.0",
+    "react-scroll": "^1.8.9",
+    "react-spring": "^9.7.1",
+    "react-three-fiber": "^6.0.13",
+    "react-transition-group": "^4.4.5",
+    "three.meshline": "^1.4.0"
+  }
+}
