@@ -153,3 +153,20 @@ p{
 }
 
 /*-------------------- HOME END --------------------*/
+
+
+.code-container {
+    padding: 10px;
+    width: auto;
+    border-radius: 8px;
+    background-color: rgb(43, 43, 43);
+    font-family: 'Source Code Pro', monospace;
+    z-index: -1;
+}
+  
+.line-numbers {
+    display: inline-block;
+    width: 32px;
+    user-select: none;
+    color: #999;
+}

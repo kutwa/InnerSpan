@@ -20,6 +20,7 @@
     "react-router-dom": "^6.9.0",
     "react-scroll": "^1.8.9",
     "react-spring": "^9.7.1",
+    "react-syntax-highlighter": "^15.4.5",
     "react-three-fiber": "^6.0.13",
     "react-transition-group": "^4.4.5",
     "three.meshline": "^1.4.0"
